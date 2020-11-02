@@ -24,5 +24,5 @@ GetNextInsult(ln) {
             break ;don't read next line (yet)
         }
     }
-    return line
+    return %line%
 }
